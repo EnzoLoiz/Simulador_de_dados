@@ -38,12 +38,14 @@ Digite a quantidade de vezes que quer que o dado gire: 3
 ```
 
 Saída:
-````yaml
+```yaml
 Resultado dos giros
 Rolagem 1: 4
 Rolagem 2: 2
 Rolagem 3: 6
 ```
+
 👤 Autor
 
 Feito por Enzo Loiz
+
